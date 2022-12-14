@@ -137,3 +137,7 @@
 {"prompt": "I want a refund of my premium subscription\n\n===\n\n", "completion": " Please contact the developers to get a refund for your subscription END"}
 {"prompt": "I saw a message with buttons in a server of my friend. How do I get it for my server too?\n\n===\n\n", "completion": " What you saw in your friend's server was probably an interface. To create an interface in your server use `/interface create` END"}
 {"prompt": "A connection role is not getting removed when people leave the channel\n\n===\n\n", "completion": " This is a know bug / issue of Astro. It is probably related to rate limits and users spamming on the voice channels END"}
+{"prompt": "Which payment methods are accepted for Astro Premium?\n\n===\n\n", "completion": " You can subscribe to Astro Premium using Credit Card, PayPal or Google Pay END"}
+{"prompt": "Is Astro open source?\n\n===\n\n", "completion": " No, Astro is currently not open source END"}
+{"prompt": "Where can I find a changelog?\n\n===\n\n", "completion": " You can find Astro´s Changelog at https://astro-bot.space/changelog\nAnnouncements about changes are also made in <#700679796019167343>  END"}
+{"prompt": "Where can I vote for Astro?\n\n===\n\n", "completion": " You can vote every 12 hours for Astro at https://top.gg/bot/715621848489918495/vote\nThis will unlock all vote-locked commands/features for free  END"}
