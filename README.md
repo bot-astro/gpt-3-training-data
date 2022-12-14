@@ -1,12 +1,15 @@
 # GPT-3 training data
 This repository holds the `training.jsonl` file.  
-This file contains a set of question & answers that are used to train a chatGPT model.  
+This file contains a set of questions & answers that are used to train a chatGPT model.  
 
 This way it's possible to train chatGPT to respond to questions regarding Astro, helping users understand and use the bot without the need to wait for human support.
 
 ## Contribute
-To contributo simply fork this repository, add your set of questions and answers and then make a pull request.
-### Format of training file
+To contribute simply fork this repository, add your set of questions and answers and then make a pull request.  
+
+✨ You will receive a special `@Contributor` role in the [Support Server](https://astro-bot.space/support) of Astro for helping with the project!  
+
+## File format
 The file `training.jsonl` has a json object for each line.  
 Each json object **MUST** have the following form:
 ```json
