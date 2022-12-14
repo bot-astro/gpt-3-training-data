@@ -137,3 +137,4 @@
 {"prompt": "I want a refund of my premium subscription\n\n===\n\n", "completion": " Please contact the developers to get a refund for your subscription END"}
 {"prompt": "I saw a message with buttons in a server of my friend. How do I get it for my server too?\n\n===\n\n", "completion": " What you saw in your friend's server was probably an interface. To create an interface in your server use `/interface create` END"}
 {"prompt": "A connection role is not getting removed when people leave the channel\n\n===\n\n", "completion": " This is a know bug / issue of Astro. It is probably related to rate limits and users spamming on the voice channels END"}
+{"prompt": "I still see the voice channel(s) after eveyone has left\n\n===\n\n", "completion": " This is a know Discord bug. The channels have likely already been deleted. Please restart discord and they should be gone."}
